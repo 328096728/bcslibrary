@@ -1,4 +1,4 @@
-bcslibrary README
+bcslibrary
 ==========
   This project works for librarian to keep track of the progress of summer reading program. A database should be set up to store the readers' reading status. Managers are able to create and edit staffs’ account. Only library staffs could get access to that database, and insert, check and update the records. This website should be available to access simultaneously from different places by multiple librarians. Also, if possible, this work could provide a statistical analysis report over the program.
 
