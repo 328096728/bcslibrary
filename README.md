@@ -10,8 +10,13 @@ bcslibrary
 GIT operation
 
 git add -A
+
 git commit -m 'upadte'
-git fetch http://github.com/weizhong612/Library
-git pull http://github.com/weizhong612/Library master
+
+git fetch http://github.com/328096728/bsclibrary
+
+git pull http://github.com/328096728/bsclibrary master
+
 git status
-git push http://github.com/weizhong612/Library master
+
+git push http://github.com/328096728/bsclibrary master
